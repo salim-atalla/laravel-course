@@ -1,1 +1,2 @@
-# laravel-course
+# Laravel Course
+laravel course
